@@ -28,4 +28,5 @@ Traceback (most recent call last):
   File "bad_calc_sum.py", line 4, in <module>
     print(x + y)
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
+bad
 ```
